@@ -1,22 +1,27 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Senior Nurse
+date: 2021 - 2023
+url: https://www.cmc.edu.np/
+location: Chitwan, Nepal
+org: Chitwan Medical College Hospital – Emergency Department
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    "Emergency",
+    "Trauma Cases",
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Assess and triage incoming patients based on illness or injury severity
+- Monitor vital signs and document findings in the electronic health record (EHR)
+- Perform initial patient examinations to assess urgent medical needs
+- Administer medications, IV fluids, and blood products as prescribed by physicians
+- Assist with emergency procedures like intubations, tracheotomies, and setting broken bones
+- Provide wound care, including cleaning injuries and applying sutures
+- Monitor patients' conditions and alert doctors to any changes or deterioration
+- Collaborate with the multidisciplinary emergency team to develop and implement care plans
+- Educate patients and families about diagnoses, treatments, and follow-up care
+- Maintain accurate and detailed medical records and charts
+- Assist with transporting patients for diagnostic tests when needed
+- Provide emotional support and comfort to patients and families in distress
+- Manage triage to ensure the most critical patients receive care first
+- Respond quickly to time-sensitive and life-threatening situations

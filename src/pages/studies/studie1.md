@@ -1,15 +1,13 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Bachelor of Science in Nursing
+location: Chitwan Medical College,
+url: https://www.cmc.edu.np/
+institute: Tribhuwan University
+date: 2015-2019
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Bachelor",
+    "Science",
+    "Nursing",
   ]
 ---

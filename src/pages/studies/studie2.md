@@ -1,8 +1,8 @@
 ---
-title: Advanced SWAT Tactics and Leadership Training
-location: FBI Academy
+title: Some Other study title
+location: Glassgow, GB
 url: http://ni.sb/mehanad
-institute: FBI Academy
-date: 1975-1980
-tags: ["Conflict Resolution", "Strategic Planning", "Risk Assessment", "Firearms Training", "Emergency Response"]
+institute: ABC Academy
+date: 2019-2022
+tags: ["Conflict Resolution", "Strategic Planning", "Risk Assessment", "Emergency Response"]
 ---

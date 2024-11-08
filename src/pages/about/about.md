@@ -1,10 +1,16 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Rushma Amgain"
+designation: "Registered Nurse"
+location: Brighton and Hove, United Kingdom
+pronouns: "she/her"
+website: "https://rushmaamgain.com.np"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+I am Rushma Amgain, a Band 5 Registered Nurse currently working at the Royal Sussex County Hospital in Brighton, UK. With a strong commitment to providing exceptional patient care, I strive to make a positive impact on the lives of those I serve.
+In my role, I am dedicated to delivering high-quality medical assistance to a diverse range of patients. My nursing practice is built on thorough assessments and the development of personalized care plans, ensuring that each patient receives tailored treatment that meets their unique needs.
+
+I believe that effective communication is key to fostering trust and collaboration with patients, families, and my colleagues in the healthcare team. This approach not only enhances patient experiences but also contributes to better health outcomes.
+At Royal Sussex County Hospital, I have the opportunity to work with patients facing various health challenges, from acute conditions to chronic illnesses. I take pride in my ability to implement and evaluate comprehensive nursing care plans that prioritize patient well-being.
+
+I am also committed to my professional development, continually seeking opportunities to expand my knowledge and stay updated with the latest advancements in nursing. This dedication ensures that I provide care that aligns with the highest standards in the healthcare field.

@@ -1,14 +1,17 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Staff Nurse
+date: Sep 2024 - Present
+url: https://www.uhsussex.nhs.uk/hospitals/royal-sussex-county-hospital/
+location: Brighton, United Kingdom
+org: Royal Sussex County Hospital
+tags: ["Nursing", "Band 5", "Medicine", "Endocrinology"]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- Provide high quality evidence based clinical care to patients, in line with the Trust values and in accordance with professional regulation.
+- Work with others to protect and promote the health and well-
+being of those in your care, their families and carers, and the wider community To work in line with Trust policies, objectives, protocols and local guidelines.
+- To act as a role model communicating in line with Trust values,to patients, carers and the staff at all times.
+- Accept delegated responsibility for specific activities/ areas from the senior nurse in charge, recognising and working within the limits of your competence.
+- Take every opportunity to continue to maintain and develop your
+own practice.
+- Facilitate students and others to develop their competence through supervision, teaching and role modelling.
